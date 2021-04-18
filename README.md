@@ -13,7 +13,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#run-the-application">Run the Application</a></li>
+        <li><a href="#how-to-run-application">How to run Application</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -48,9 +48,10 @@
   npm install
   ```
 
-### Run the Application
+### How to run Application
 
-For the run the application:
+- After clone the repository, you must add file `.env`. For content of this file, you can copy from file `.env.example` 
+- And Run the application:
  ```bash
 npm start
  ```
