@@ -52,9 +52,9 @@
 
 - After clone the repository, you must add file `.env`. For content of this file, you can copy from file `.env.example` 
 - And Run the application:
- ```bash
-npm start
- ```
+  ```bash
+  npm start
+  ```
 
 ## Contact
 
