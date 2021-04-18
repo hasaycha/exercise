@@ -16,7 +16,6 @@
         <li><a href="#run-the-application">Run the Application</a></li>
       </ul>
     </li>
-    <li><a href="#flow">Flow</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
